@@ -17,6 +17,8 @@
 		D83F237529CB27D600397D68 /* SwiftUIBasicsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D83F237429CB27D600397D68 /* SwiftUIBasicsUITests.swift */; };
 		D83F237729CB27D600397D68 /* SwiftUIBasicsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D83F237629CB27D600397D68 /* SwiftUIBasicsUITestsLaunchTests.swift */; };
 		D86689FA29CD766A000DFC6C /* ScrollViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86689F929CD766A000DFC6C /* ScrollViewExample.swift */; };
+		D86689FC29CDB316000DFC6C /* GridExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86689FB29CDB316000DFC6C /* GridExample.swift */; };
+		D86689FE29CDB9D2000DFC6C /* SafeAreaExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86689FD29CDB9D2000DFC6C /* SafeAreaExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,8 @@
 		D83F237429CB27D600397D68 /* SwiftUIBasicsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicsUITests.swift; sourceTree = "<group>"; };
 		D83F237629CB27D600397D68 /* SwiftUIBasicsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D86689F929CD766A000DFC6C /* ScrollViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewExample.swift; sourceTree = "<group>"; };
+		D86689FB29CDB316000DFC6C /* GridExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridExample.swift; sourceTree = "<group>"; };
+		D86689FD29CDB9D2000DFC6C /* SafeAreaExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				D83F235429CB27D000397D68 /* SwiftUIBasicsApp.swift */,
 				D83F235629CB27D000397D68 /* ContentView.swift */,
 				D86689F929CD766A000DFC6C /* ScrollViewExample.swift */,
+				D86689FB29CDB316000DFC6C /* GridExample.swift */,
+				D86689FD29CDB9D2000DFC6C /* SafeAreaExample.swift */,
 				D83F235829CB27D600397D68 /* Assets.xcassets */,
 				D83F235D29CB27D600397D68 /* Persistence.swift */,
 				D83F235F29CB27D600397D68 /* SwiftUIBasics.xcdatamodeld */,
@@ -266,10 +272,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D86689FC29CDB316000DFC6C /* GridExample.swift in Sources */,
 				D83F235E29CB27D600397D68 /* Persistence.swift in Sources */,
 				D83F235729CB27D000397D68 /* ContentView.swift in Sources */,
 				D83F236129CB27D600397D68 /* SwiftUIBasics.xcdatamodeld in Sources */,
 				D83F235529CB27D000397D68 /* SwiftUIBasicsApp.swift in Sources */,
+				D86689FE29CDB9D2000DFC6C /* SafeAreaExample.swift in Sources */,
 				D86689FA29CD766A000DFC6C /* ScrollViewExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
