@@ -17,6 +17,7 @@
 		D83F237529CB27D600397D68 /* SwiftUIBasicsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D83F237429CB27D600397D68 /* SwiftUIBasicsUITests.swift */; };
 		D83F237729CB27D600397D68 /* SwiftUIBasicsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D83F237629CB27D600397D68 /* SwiftUIBasicsUITestsLaunchTests.swift */; };
 		D857C71A29D446470088AE43 /* ConditionalExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D857C71929D446470088AE43 /* ConditionalExample.swift */; };
+		D8618E7229D58E4600894699 /* PopupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8618E7129D58E4600894699 /* PopupExample.swift */; };
 		D86689FA29CD766A000DFC6C /* ScrollViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86689F929CD766A000DFC6C /* ScrollViewExample.swift */; };
 /* End PBXBuildFile section */
 
@@ -51,6 +52,7 @@
 		D83F237429CB27D600397D68 /* SwiftUIBasicsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicsUITests.swift; sourceTree = "<group>"; };
 		D83F237629CB27D600397D68 /* SwiftUIBasicsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D857C71929D446470088AE43 /* ConditionalExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalExample.swift; sourceTree = "<group>"; };
+		D8618E7129D58E4600894699 /* PopupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupExample.swift; sourceTree = "<group>"; };
 		D86689F929CD766A000DFC6C /* ScrollViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,6 +108,7 @@
 				D83F235629CB27D000397D68 /* ContentView.swift */,
 				D86689F929CD766A000DFC6C /* ScrollViewExample.swift */,
 				D857C71929D446470088AE43 /* ConditionalExample.swift */,
+				D8618E7129D58E4600894699 /* PopupExample.swift */,
 				D83F235829CB27D600397D68 /* Assets.xcassets */,
 				D83F235D29CB27D600397D68 /* Persistence.swift */,
 				D83F235F29CB27D600397D68 /* SwiftUIBasics.xcdatamodeld */,
@@ -270,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D83F235E29CB27D600397D68 /* Persistence.swift in Sources */,
+				D8618E7229D58E4600894699 /* PopupExample.swift in Sources */,
 				D83F235729CB27D000397D68 /* ContentView.swift in Sources */,
 				D83F236129CB27D600397D68 /* SwiftUIBasics.xcdatamodeld in Sources */,
 				D857C71A29D446470088AE43 /* ConditionalExample.swift in Sources */,
